@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avneet28-web
+- 👋 Hi, I’m Avneet Kaur
 - 👀 I’m interested in Reading and music.
 - 🌱 I’m currently learning Computer Programming
 - 💞️ I’m looking forward to proceed my career in this field.
